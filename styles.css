@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7; /* Açık gri arka plan */
+    color: #333; /* Koyu gri metin */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4a4a4a; /* Koyu gri başlık */
+    color: white; /* Beyaz başlık metni */
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    padding: 1rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #4a4a4a; /* Koyu gri footer */
+    color: white;
+}
+
+.poem {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border: 1px solid #ddd; /* Gri çerçeve */
+    background-color: #ffffff; /* Beyaz arka plan */
+}
