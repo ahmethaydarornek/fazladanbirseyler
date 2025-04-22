@@ -1,10 +1,10 @@
 # Fazladan Bir Şeyler
 
-Bazen artar 
-Bazen şaşar
-Aklımdaki neyse
-Attım ortaya 
+Bazen artar  
+Bazen şaşar  
+Aklımdaki neyse  
+Attım ortaya   
 
-Ortalık ortasında ortanca bir olasılık sordular sonrasında 
-Bilmiyorum dedim 
-hep böyle derim 
+Ortalık ortasında ortanca bir olasılık sordular sonrasında   
+Bilmiyorum dedim      
+hep böyle derim   
